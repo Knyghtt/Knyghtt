@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Knyghtt
+- 👋 Hi,
 - 👀 I’m interested in ... c#, games and mobile applications 
 - 🌱 I’m currently learning ... c#
 - 💞️ I’m looking to collaborate on ...
